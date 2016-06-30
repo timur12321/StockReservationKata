@@ -1,0 +1,10 @@
+c:\users\timur.hasan\documents\visual studio 2015\Projects\StockKata\StockKataTests\obj\Debug\StockKataTests.csprojResolveAssemblyReference.cache
+c:\users\timur.hasan\documents\visual studio 2015\Projects\StockKata\StockKataTests\bin\Debug\StockKataTests.dll.config
+c:\users\timur.hasan\documents\visual studio 2015\Projects\StockKata\StockKataTests\bin\Debug\StockKataTests.dll
+c:\users\timur.hasan\documents\visual studio 2015\Projects\StockKata\StockKataTests\bin\Debug\StockKataTests.pdb
+c:\users\timur.hasan\documents\visual studio 2015\Projects\StockKata\StockKataTests\bin\Debug\nunit.framework.dll
+c:\users\timur.hasan\documents\visual studio 2015\Projects\StockKata\StockKataTests\bin\Debug\StockKata.dll
+c:\users\timur.hasan\documents\visual studio 2015\Projects\StockKata\StockKataTests\bin\Debug\StockKata.pdb
+c:\users\timur.hasan\documents\visual studio 2015\Projects\StockKata\StockKataTests\bin\Debug\nunit.framework.xml
+c:\users\timur.hasan\documents\visual studio 2015\Projects\StockKata\StockKataTests\obj\Debug\StockKataTests.dll
+c:\users\timur.hasan\documents\visual studio 2015\Projects\StockKata\StockKataTests\obj\Debug\StockKataTests.pdb

@@ -1,0 +1,6 @@
+c:\users\timur.hasan\documents\visual studio 2015\Projects\StockKata\StockKata\obj\Debug\StockKata.csprojResolveAssemblyReference.cache
+c:\users\timur.hasan\documents\visual studio 2015\Projects\StockKata\StockKata\bin\Debug\StockKata.dll.config
+c:\users\timur.hasan\documents\visual studio 2015\Projects\StockKata\StockKata\bin\Debug\StockKata.dll
+c:\users\timur.hasan\documents\visual studio 2015\Projects\StockKata\StockKata\bin\Debug\StockKata.pdb
+c:\users\timur.hasan\documents\visual studio 2015\Projects\StockKata\StockKata\obj\Debug\StockKata.dll
+c:\users\timur.hasan\documents\visual studio 2015\Projects\StockKata\StockKata\obj\Debug\StockKata.pdb
