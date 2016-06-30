@@ -4,3 +4,8 @@ c:\users\timur.hasan\documents\visual studio 2015\Projects\StockKata\StockKata\b
 c:\users\timur.hasan\documents\visual studio 2015\Projects\StockKata\StockKata\bin\Debug\StockKata.pdb
 c:\users\timur.hasan\documents\visual studio 2015\Projects\StockKata\StockKata\obj\Debug\StockKata.dll
 c:\users\timur.hasan\documents\visual studio 2015\Projects\StockKata\StockKata\obj\Debug\StockKata.pdb
+C:\Github\Kata\StockKata\StockKata\bin\Debug\StockKata.dll.config
+C:\Github\Kata\StockKata\StockKata\bin\Debug\StockKata.dll
+C:\Github\Kata\StockKata\StockKata\bin\Debug\StockKata.pdb
+C:\Github\Kata\StockKata\StockKata\obj\Debug\StockKata.dll
+C:\Github\Kata\StockKata\StockKata\obj\Debug\StockKata.pdb

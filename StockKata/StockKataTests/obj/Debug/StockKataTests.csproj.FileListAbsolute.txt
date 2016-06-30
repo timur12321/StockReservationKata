@@ -8,3 +8,13 @@ c:\users\timur.hasan\documents\visual studio 2015\Projects\StockKata\StockKataTe
 c:\users\timur.hasan\documents\visual studio 2015\Projects\StockKata\StockKataTests\bin\Debug\nunit.framework.xml
 c:\users\timur.hasan\documents\visual studio 2015\Projects\StockKata\StockKataTests\obj\Debug\StockKataTests.dll
 c:\users\timur.hasan\documents\visual studio 2015\Projects\StockKata\StockKataTests\obj\Debug\StockKataTests.pdb
+C:\Github\Kata\StockKata\StockKataTests\bin\Debug\StockKataTests.dll.config
+C:\Github\Kata\StockKata\StockKataTests\bin\Debug\StockKataTests.dll
+C:\Github\Kata\StockKata\StockKataTests\bin\Debug\StockKataTests.pdb
+C:\Github\Kata\StockKata\StockKataTests\bin\Debug\nunit.framework.dll
+C:\Github\Kata\StockKata\StockKataTests\bin\Debug\StockKata.dll
+C:\Github\Kata\StockKata\StockKataTests\bin\Debug\StockKata.pdb
+C:\Github\Kata\StockKata\StockKataTests\bin\Debug\nunit.framework.xml
+C:\Github\Kata\StockKata\StockKataTests\obj\Debug\StockKataTests.csprojResolveAssemblyReference.cache
+C:\Github\Kata\StockKata\StockKataTests\obj\Debug\StockKataTests.dll
+C:\Github\Kata\StockKata\StockKataTests\obj\Debug\StockKataTests.pdb

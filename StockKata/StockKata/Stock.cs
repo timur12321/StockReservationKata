@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using System.Linq;
 using StockKata.Inputs;
 
 namespace StockKata
@@ -12,16 +13,11 @@ namespace StockKata
             _database = database;
         }
 
-        public List<ReservationOutput> Reserve(List<ReservationInput> list)
+        public List<ReservationOutput> Reserve(List<ReservationInput> reservations)
         {
-            var reservedStock = new List<ReservationOutput>();
+            var mappedItems =  reservations.Select(reservationInput => _database.Map(reservationInput)).ToList();
 
-            foreach (var reservationInput in list)
-            {
-                reservedStock.Add(_database.Map(reservationInput));
-            }
-
-            return reservedStock;
+            return _database.InStock(mappedItems);
         }
     }
 }
